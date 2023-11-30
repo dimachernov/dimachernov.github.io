@@ -13,7 +13,7 @@
 [Browser DL - Contoso Pharma](https://apps.powerapps.com/play/33f0a4cb-6726-4cd9-afe0-2f73b88825de?accountId=52dda70b-388f-ee11-be36-6045bd3d4631)
 
 
-[Browser DL - City Power Restart](https://apps.powerapps.com/play/33f0a4cb-6726-4cd9-afe0-2f73b88825de?accountId=52dda70b-388f-ee11-be36-6045bd3d4631&restartApp=true)
+[Browser DL - City Power Restart](https://apps.powerapps.com/play/33f0a4cb-6726-4cd9-afe0-2f73b88825de?accountId=f87a90ea-378f-ee11-be36-6045bd3d4631&restartApp=true)
 
 
 [Browser DL - Contoso Pharma Restart](https://apps.powerapps.com/play/33f0a4cb-6726-4cd9-afe0-2f73b88825de?accountId=52dda70b-388f-ee11-be36-6045bd3d4631&restartApp=true)
